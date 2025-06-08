@@ -44,8 +44,7 @@
 
 - Email or SMS notifications for:
   - ✅ Booking confirmations  
-  - 💸 Payment receipts  
-  - 🔁 Refund status  
+  - 💸 Payment receipts   
 
 ---
 
