@@ -4,9 +4,9 @@
 
 ---
 
-## 🚀 Features
+## Features
 
-### 🧑‍💼 Admin Panel Features
+### Admin Panel Features
 
 **✈️ Flight Management**
 - Add, update, or cancel flights with details like flight number, source, destination, timings, seats, and price.
@@ -21,7 +21,7 @@
 
 ---
 
-### 👤 Customer Features
+### Customer Features
 
 **📝 User Registration & Authentication**
 - Sign up with name, email, phone, and password.
@@ -62,9 +62,7 @@
 
 ---
 
-## 🖼️ Screenshots
-
-> Images are resized to a consistent width for clean presentation.
+## Screenshots
 
 ### 1. User Registration  
 <img src="https://github.com/user-attachments/assets/dcdcd495-dcd8-4dac-9d0b-1854d359fc2b" width="800px"/>
@@ -96,7 +94,7 @@
 
 ---
 
-## 🧑‍🔧 Admin Panel
+## Admin Panel
 
 ### 7. Admin Login  
 <img src="https://github.com/user-attachments/assets/bc651ce0-f893-45f8-8bf9-dc4fdbb2ec56" width="800px"/>
