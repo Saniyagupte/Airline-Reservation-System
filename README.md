@@ -67,12 +67,12 @@
 > Images are resized to a consistent width for clean presentation.
 
 ### 1. User Registration  
-<img src="https://github.com/user-attachments/assets/dcdcd495-dcd8-4dac-9d0b-1854d359fc2b" width="400px"/>
+<img src="https://github.com/user-attachments/assets/dcdcd495-dcd8-4dac-9d0b-1854d359fc2b" width="800px"/>
 
 ---
 
 ### 2. Flight Search  
-<img src="https://github.com/user-attachments/assets/6bc5200b-90f9-42fe-9860-08cce60b71fb" width="400px"/>
+<img src="https://github.com/user-attachments/assets/6bc5200b-90f9-42fe-9860-08cce60b71fb" width="800px"/>
 
 ---
 
