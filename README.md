@@ -77,41 +77,41 @@
 ---
 
 ### 3. Flight Selection  
-<img src="https://github.com/user-attachments/assets/2005e1d9-509c-4de3-8863-222fa52c620c" width="400px"/>
+<img src="https://github.com/user-attachments/assets/2005e1d9-509c-4de3-8863-222fa52c620c" width="800px"/>
 
 ---
 
 ### 4. Flight Details  
-<img src="https://github.com/user-attachments/assets/e7afb493-9bb9-46de-90cb-b8747b50798e" width="400px"/>
+<img src="https://github.com/user-attachments/assets/e7afb493-9bb9-46de-90cb-b8747b50798e" width="800px"/>
 
 ---
 
 ### 5. Passenger Contact Details  
-<img src="https://github.com/user-attachments/assets/4f2492e8-3e07-4864-9ca9-b4560baa6b91" width="400px"/>
+<img src="https://github.com/user-attachments/assets/4f2492e8-3e07-4864-9ca9-b4560baa6b91" width="800px"/>
 
 ---
 
 ### 6. Payment Page  
-<img src="https://github.com/user-attachments/assets/8f58d7ff-b536-469a-8a73-c29909cc992d" width="400px"/>
+<img src="https://github.com/user-attachments/assets/8f58d7ff-b536-469a-8a73-c29909cc992d" width="800px"/>
 
 ---
 
 ## 🧑‍🔧 Admin Panel
 
 ### 7. Admin Login  
-<img src="https://github.com/user-attachments/assets/bc651ce0-f893-45f8-8bf9-dc4fdbb2ec56" width="400px"/>
+<img src="https://github.com/user-attachments/assets/bc651ce0-f893-45f8-8bf9-dc4fdbb2ec56" width="800px"/>
 <br>
-<img src="https://github.com/user-attachments/assets/d9a7662c-c6ce-47c6-b569-74aee662f720" width="400px"/>
+<img src="https://github.com/user-attachments/assets/d9a7662c-c6ce-47c6-b569-74aee662f720" width="800px"/>
 
 ---
 
 ### 8. Add New Flight  
-<img src="https://github.com/user-attachments/assets/1060f582-6066-4e6f-8b84-37dfe7669b1a" width="400px"/>
+<img src="https://github.com/user-attachments/assets/1060f582-6066-4e6f-8b84-37dfe7669b1a" width="800px"/>
 
 ---
 
 ### 9. Manage Employees  
-<img src="https://github.com/user-attachments/assets/11092223-3768-4f59-9ddd-780fd0330323" width="400px"/>
+<img src="https://github.com/user-attachments/assets/11092223-3768-4f59-9ddd-780fd0330323" width="800px"/>
 
 ---
 
